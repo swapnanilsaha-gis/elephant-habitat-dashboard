@@ -4,7 +4,7 @@
 
 An interactive web dashboard for a Spatial Modelling course project at Symbiosis Institute of Geoinformatics. It shows where elephant habitat is in Sri Lanka today, how it may change under future climate and land use, and how much of it lies outside protected areas.
 
-**Live dashboard:** _link added after deployment_
+**Live dashboard:** https://elephant-habitat-dashboard.vercel.app
 
 ---
 
